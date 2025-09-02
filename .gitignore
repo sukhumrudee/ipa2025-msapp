@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE files
+.vscode/
+
+# Docker-related files
+*.log
+*.pid
+*.sock
+
+# .env files
+.env
